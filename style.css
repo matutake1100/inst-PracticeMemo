@@ -1,4 +1,13 @@
-div#tab-container {
+header#header {
+    display: flex;
+    justify-content: space-between;
+}
+div#logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+div#menu_button {
     display: flex;
     justify-content: space-around;
+    width: 50%;
 }
