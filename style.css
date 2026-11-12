@@ -1,11 +1,14 @@
+/*ヘッダーのスタイル設定*/
 header#header {
     display: flex;
     justify-content: space-between;
     border-bottom: 3px solid #000000;
+    padding-bottom: 7px;
 }
 div#logo {
     font-size: 30px;
     font-weight: bold;
+    font-family: 'Tangerine', serif;
 }
 div#menu_button {
     display: flex;
@@ -13,4 +16,7 @@ div#menu_button {
     width: 50%;
     margin-right: 60px;
     font-size: 20px;
+    padding-top: 4px
 }
+
+/**/
