@@ -1,0 +1,4 @@
+div#tab-container {
+    display: flex;
+    justify-content: space-around;
+}
