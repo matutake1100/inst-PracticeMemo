@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="_1nXkG5Vrj2iGhrFAMpk" name="ページ-1">
-        <mxGraphModel dx="1577" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1213" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -11,112 +11,112 @@
                     <mxGeometry height="60" width="120" x="160" y="360" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="練習する" vertex="1">
-                    <mxGeometry height="60" width="120" x="960" y="360" as="geometry"/>
-                </mxCell>
-                <mxCell id="TU646PdH_EEtZjZ1D14F-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="練習記録をつける" vertex="1">
                     <mxGeometry height="60" width="120" x="1120" y="360" as="geometry"/>
                 </mxCell>
+                <mxCell id="TU646PdH_EEtZjZ1D14F-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="練習記録をつける" vertex="1">
+                    <mxGeometry height="60" width="120" x="1280" y="360" as="geometry"/>
+                </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="次の練習日を決める" vertex="1">
-                    <mxGeometry height="60" width="120" x="1440" y="360" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="1600" y="360" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="予定を確認する" vertex="1">
-                    <mxGeometry height="60" width="120" x="640" y="360" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="800" y="360" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="練習日時を思い出す" vertex="1">
-                    <mxGeometry height="60" width="120" x="800" y="360" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="960" y="360" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="予定を決める" vertex="1">
                     <mxGeometry height="60" width="120" x="160" y="280" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="思い出す" vertex="1">
-                    <mxGeometry height="60" width="120" x="640" y="280" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="800" y="280" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="練習する" vertex="1">
-                    <mxGeometry height="60" width="120" x="960" y="280" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="1120" y="280" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="次を決める" vertex="1">
-                    <mxGeometry height="60" width="120" x="1440" y="280" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="1600" y="280" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="初心者" vertex="1">
                     <mxGeometry height="30" width="60" x="160" y="230" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="ブラウザでカレンダーから日とスタート時間を指定する" vertex="1">
-                    <mxGeometry height="60" width="120" x="160" y="440" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="320" y="440" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="音声入力をする" vertex="1">
-                    <mxGeometry height="60" width="120" x="160" y="600" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="320" y="600" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="終了時刻を入力する" vertex="1">
-                    <mxGeometry height="60" width="120" x="160" y="520" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="320" y="520" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="アプリを開いて確認する" vertex="1">
-                    <mxGeometry height="60" width="120" x="640" y="440" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="800" y="440" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="日時をリマインドする" vertex="1">
-                    <mxGeometry height="60" width="120" x="800" y="520" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="960" y="520" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="練習内容を提案する" vertex="1">
-                    <mxGeometry height="60" width="120" x="960" y="600" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="1120" y="600" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="カレンダーを選ぶとその日の記録を入力できる" vertex="1">
-                    <mxGeometry height="60" width="120" x="1120" y="520" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="1280" y="520" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ブラウザでカレンダーから日とスタート時間を指定する&lt;/span&gt;" vertex="1">
-                    <mxGeometry height="60" width="120" x="1440" y="440" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="1600" y="440" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-24" edge="1" parent="1" style="shape=link;html=1;" value="">
                     <mxGeometry relative="1" width="100" as="geometry">
-                        <mxPoint x="160" y="430" as="sourcePoint"/>
-                        <mxPoint x="1560" y="430" as="targetPoint"/>
+                        <mxPoint x="150" y="430" as="sourcePoint"/>
+                        <mxPoint x="1720" y="430" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-25" edge="1" parent="1" style="shape=link;html=1;" value="">
                     <mxGeometry relative="1" width="100" as="geometry">
-                        <mxPoint x="710" y="430" as="sourcePoint"/>
-                        <mxPoint x="810" y="430" as="targetPoint"/>
+                        <mxPoint x="870" y="430" as="sourcePoint"/>
+                        <mxPoint x="970" y="430" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-26" edge="1" parent="1" style="endArrow=none;html=1;" value="">
                     <mxGeometry height="50" relative="1" width="50" as="geometry">
-                        <mxPoint x="160" y="510" as="sourcePoint"/>
-                        <mxPoint x="1560" y="510" as="targetPoint"/>
+                        <mxPoint x="150" y="510" as="sourcePoint"/>
+                        <mxPoint x="1720" y="510" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-27" edge="1" parent="1" style="endArrow=none;html=1;" value="">
                     <mxGeometry height="50" relative="1" width="50" as="geometry">
-                        <mxPoint x="160" y="590" as="sourcePoint"/>
-                        <mxPoint x="1560" y="590" as="targetPoint"/>
+                        <mxPoint x="150" y="590" as="sourcePoint"/>
+                        <mxPoint x="1720" y="590" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-28" edge="1" parent="1" style="endArrow=none;html=1;" value="">
                     <mxGeometry height="50" relative="1" width="50" as="geometry">
-                        <mxPoint x="160" y="670" as="sourcePoint"/>
-                        <mxPoint x="1560" y="670" as="targetPoint"/>
+                        <mxPoint x="150" y="670" as="sourcePoint"/>
+                        <mxPoint x="1720" y="670" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="一日ずつ登録する" vertex="1">
-                    <mxGeometry height="60" width="120" x="320" y="440" as="geometry"/>
-                </mxCell>
-                <mxCell id="TU646PdH_EEtZjZ1D14F-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="まとめて数日登録する" vertex="1">
-                    <mxGeometry height="60" width="120" x="320" y="520" as="geometry"/>
-                </mxCell>
-                <mxCell id="TU646PdH_EEtZjZ1D14F-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="手動保存する" vertex="1">
                     <mxGeometry height="60" width="120" x="480" y="440" as="geometry"/>
                 </mxCell>
-                <mxCell id="TU646PdH_EEtZjZ1D14F-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="自動保存する" vertex="1">
+                <mxCell id="TU646PdH_EEtZjZ1D14F-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="まとめて数日登録する" vertex="1">
                     <mxGeometry height="60" width="120" x="480" y="520" as="geometry"/>
                 </mxCell>
-                <mxCell id="TU646PdH_EEtZjZ1D14F-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="画面に常に表示する&lt;div&gt;（Widgit&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" vertex="1">
-                    <mxGeometry height="60" width="120" x="640" y="600" as="geometry"/>
+                <mxCell id="TU646PdH_EEtZjZ1D14F-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="手動保存する" vertex="1">
+                    <mxGeometry height="60" width="120" x="640" y="440" as="geometry"/>
                 </mxCell>
-                <mxCell id="TU646PdH_EEtZjZ1D14F-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="既存のスマホカレンダーアプリに表示する" vertex="1">
+                <mxCell id="TU646PdH_EEtZjZ1D14F-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="自動保存する" vertex="1">
                     <mxGeometry height="60" width="120" x="640" y="520" as="geometry"/>
                 </mxCell>
+                <mxCell id="TU646PdH_EEtZjZ1D14F-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="画面に常に表示する&lt;div&gt;（Widgit&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="800" y="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="TU646PdH_EEtZjZ1D14F-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="既存のスマホカレンダーアプリに表示する" vertex="1">
+                    <mxGeometry height="60" width="120" x="800" y="520" as="geometry"/>
+                </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="練習経過時間を表示する" vertex="1">
-                    <mxGeometry height="60" width="120" x="960" y="520" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="1120" y="520" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="連続練習日数を表示する" vertex="1">
-                    <mxGeometry height="60" width="120" x="1280" y="520" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="1440" y="520" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-39" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ウォーキングスケルトン" vertex="1">
                     <mxGeometry height="60" width="120" x="20" y="440" as="geometry"/>
@@ -128,13 +128,16 @@
                     <mxGeometry height="60" width="120" x="20" y="600" as="geometry"/>
                 </mxCell>
                 <mxCell id="7R65LMIPlqN0KFJP6MuZ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="メモ欄に日付と練習内容を書く" vertex="1">
-                    <mxGeometry height="60" width="120" x="1120" y="440" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="1280" y="440" as="geometry"/>
                 </mxCell>
                 <mxCell id="7R65LMIPlqN0KFJP6MuZ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="前回の練習内容を確認する" vertex="1">
-                    <mxGeometry height="60" width="120" x="960" y="440" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="1120" y="440" as="geometry"/>
                 </mxCell>
                 <mxCell id="9DEmnPqUopp0P3HUoG6Z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="PHPを使ってWebアプリにする" vertex="1">
-                    <mxGeometry height="60" width="120" x="160" y="680" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="320" y="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="IKWhsmiuRZ8T4oSWpkkY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="▢メインメニューを開く" vertex="1">
+                    <mxGeometry height="60" width="120" x="160" y="440" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
