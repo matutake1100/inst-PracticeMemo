@@ -18,4 +18,8 @@
     height: 50px;
 }
 
-/**/
+/*TOPの画像*/
+.top_image {
+    width: 100%;
+    height: auto;
+}
