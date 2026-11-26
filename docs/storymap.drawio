@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="_1nXkG5Vrj2iGhrFAMpk" name="ページ-1">
-        <mxGraphModel dx="1213" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="520" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -40,7 +40,7 @@
                 <mxCell id="TU646PdH_EEtZjZ1D14F-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="初心者" vertex="1">
                     <mxGeometry height="30" width="60" x="160" y="230" as="geometry"/>
                 </mxCell>
-                <mxCell id="TU646PdH_EEtZjZ1D14F-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="ブラウザでカレンダーから日とスタート時間を指定する" vertex="1">
+                <mxCell id="TU646PdH_EEtZjZ1D14F-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="▢ブラウザでカレンダーから日とスタート時間を指定する" vertex="1">
                     <mxGeometry height="60" width="120" x="320" y="440" as="geometry"/>
                 </mxCell>
                 <mxCell id="TU646PdH_EEtZjZ1D14F-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="音声入力をする" vertex="1">
@@ -136,7 +136,7 @@
                 <mxCell id="9DEmnPqUopp0P3HUoG6Z-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="PHPを使ってWebアプリにする" vertex="1">
                     <mxGeometry height="60" width="120" x="320" y="680" as="geometry"/>
                 </mxCell>
-                <mxCell id="IKWhsmiuRZ8T4oSWpkkY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="▢メインメニューを開く" vertex="1">
+                <mxCell id="IKWhsmiuRZ8T4oSWpkkY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="✅メインメニューを開く" vertex="1">
                     <mxGeometry height="60" width="120" x="160" y="440" as="geometry"/>
                 </mxCell>
             </root>
